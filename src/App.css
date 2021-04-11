@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.img{
+  height: 4em;
+  width: 4em;
+}
+.page-header{
+  display: inline-flex;
+}
+
+#signIn{
+  margin-right: 0.2em;
+  
+}
+
+#signUp{
+  margin-left: 0.2em;
+}
